@@ -19,7 +19,10 @@ depoly.py- Flask app<br />
 3. You might want to use virtual envirnment to prevent clashes.
 4. `Python deploy.py`
 
+**Database used** - Mongodb Atlas
+
 Algorithms and accuracy
+
 #### feature-Title
 
 | Machine Learning Algorithm | Test Accuracy     |

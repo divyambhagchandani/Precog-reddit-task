@@ -23,7 +23,7 @@ depoly.py- Flask app<br />
 
 Algorithms and accuracy
 
-#### feature-Title
+### Feature-Title
 
 | Machine Learning Algorithm | Test Accuracy     |
 | -------------              |:-----------------:|

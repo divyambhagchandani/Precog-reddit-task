@@ -19,3 +19,30 @@ depoly.py- Flask app<br />
 3. You might want to use virtual envirnment to prevent clashes.
 4. `Python deploy.py`
 
+Algorithms and accuracy
+#### feature-Title
+
+| Machine Learning Algorithm | Test Accuracy     |
+| -------------              |:-----------------:|
+| Naive Bayes                |  0.494912790      |
+| Linear SVM                 |  0.612645348      |
+| Logistic Regression        |  0.6024709        |
+
+### Feature- Post
+| Machine Learning Algorithm | Test Accuracy     |
+| -------------              |:-----------------:|
+| Naive Bayes                |  0.239098837      |
+| Linear SVM                 |  0.349563953      |
+| Logistic Regression        |  0.49273255       |
+### Feature- URL
+| Machine Learning Algorithm | Test Accuracy     |
+| -------------              |:-----------------:|
+| Naive Bayes                |  0.4375           |
+| Linear SVM                 |  0.53488372`      |
+| Logistic Regression        |  0.54796511       |
+### Feature- Post+Title
+| Machine Learning Algorithm | Test Accuracy     |
+| -------------              |:-----------------:|
+| Naive Bayes                |  0.4992732        |
+| Linear SVM                 |  0.6061046        |
+| Logistic Regression        |  0.585029         | 

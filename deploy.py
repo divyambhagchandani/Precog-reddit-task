@@ -68,8 +68,7 @@ sgd = Pipeline([('vect', CountVectorizer()),
                 ('clf', SGDClassifier(loss='hinge', penalty='l2',alpha=1e-3, random_state=42, max_iter=5, tol=None)),
                ])
 sgd.fit(X_train, y_train)
-other=11
-i_dontknow=other +10
+
 
 app = Flask(__name__)
 
